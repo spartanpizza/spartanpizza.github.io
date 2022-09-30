@@ -1,0 +1,24 @@
+h3{
+    color: #68bbe3;  
+     
+}
+
+#language-skills{
+    width: 100%;
+}
+
+#language-skills .topic{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.skills-container{
+    display: flex;
+    margin: 1em;
+    padding: 1em 0px;
+    justify-content: space-evenly
+}
