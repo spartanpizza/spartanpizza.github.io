@@ -22,3 +22,7 @@ h3{
     padding: 1em 0px;
     justify-content: space-evenly
 }
+.intro-info-end{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}

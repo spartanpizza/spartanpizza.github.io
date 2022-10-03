@@ -1696,6 +1696,7 @@ header .logo a {
 }
 .button-section .button {
   width: 250px;
+  margin-top: 5rem;
 }
 .button-section [class*="col-"] .button:first-child {
   margin-right: 4.2rem;
@@ -1734,6 +1735,12 @@ header .logo a {
   }
   .button-section [class*="col-"] .button:first-child {
     margin-right: 0;
+  }
+  .skills-container{
+    display: grid !important;
+    grid-template-columns: auto auto auto;
+    row-gap: 28px;
+
   }
 }
 @media only screen and (max-width: 600px) {
